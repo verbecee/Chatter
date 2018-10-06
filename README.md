@@ -1,6 +1,6 @@
 # chatter
 
-FIXME
+Bonquiqui
 
 ## Prerequisites
 
@@ -16,4 +16,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 Bonquiqui

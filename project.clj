@@ -1,5 +1,5 @@
 (defproject chatter "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
+  :description "Caffeine makes my hands shake"
   :url "http://example.com/FIXME"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.9.0"]
